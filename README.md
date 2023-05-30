@@ -1,2 +1,2 @@
 # MSP430
-MSP430 Servo Motor control with 10k Potentiometer
+MSP430F5529LP Servo Motor control with 10k Potentiometer
